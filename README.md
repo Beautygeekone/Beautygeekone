@@ -52,7 +52,7 @@ I’m currently learning:
 <table>
   <tr>
     <td>
-      <strong>Office:</strong><br>
+      <strong>Otras Habilidades:</strong><br>
       <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
       <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint">
       <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" alt="Office">
