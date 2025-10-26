@@ -14,7 +14,7 @@ I'm a former English teacher who somehow ended up writing code instead of essays
 
 
 ______________________________________________________________________________________________________________________________________________________________________________
-🌱 I’m currently learning:
+I’m currently learning:
 
 
 <table>
@@ -64,7 +64,7 @@ ________________________________________________________________________________
   
 (And more!)
 
-Fun fact: I debug code with the same patience I use to explain Passive Voice to my students. The best part? The code never asks "Why?"
+
 
 
 ______________________________________________________________________________________________________________________________________________________________________________
