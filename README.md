@@ -17,6 +17,8 @@ I'm a former English teacher who somehow ended up writing code instead of essays
 
 
 
+
+
 Soy profe de Inglés hace varios años, hasta que un día me encontré escribiendo código en lugar de ensayos. Estudio Desarrollo Full Stack en la UTN Buenos Aires y me dedico a crear cosas que (creo) funcionan. Aprendo rápido, me obsesiono fácil y al final de todo encuentro la forma de resolver las cosas, y lo mas importante es que la mayor parte del tiempo estoy corrigiendo errores… o fingiendo que no existen. Fuera del código, pienso demasiado en cómo se cruzan la tecnología y la psicología (?).
 
 
