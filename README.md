@@ -6,7 +6,7 @@
 
 
 ______________________________________________________________________________________________________________________________________________________________________________
-I'm a former English teacher who somehow ended up writing code instead of essays. I’m studying Full Stack at UTN Buenos Aires and building stuff that ideally works. I pick things up quickly, get (really) obsessed, and tend to figure things out one way or another. Most days, I’m either fixing bugs or pretending they don’t exist. Outside of code, I overthink things like how technology and psychology intersect. Good code, like good writing, should say just enough and know when to shut up.
+I'm a former English teacher who somehow ended up writing code instead of essays. I’m studying Full Stack at UTN Buenos Aires and building stuff that ideally works. I pick things up quickly, get (really) obsessed, and tend to figure things out one way or another. Outside of code, I overthink things like how technology and psychology intersect. Good code, like good writing, should say just enough and know when to shut up.
 
 🌎 Based in Argentina (UTC-3) | Fluent in English.  
 
@@ -19,7 +19,7 @@ I'm a former English teacher who somehow ended up writing code instead of essays
 
 
 
-Soy profe de Inglés hace varios años, hasta que un día me encontré escribiendo código en lugar de ensayos. Estudio Desarrollo Full Stack en la UTN Buenos Aires y me dedico a crear cosas que (creo) funcionan. Aprendo rápido, me obsesiono fácil y al final de todo encuentro la forma de resolver las cosas, y lo mas importante es que la mayor parte del tiempo estoy corrigiendo errores… o fingiendo que no existen. Fuera del código, pienso demasiado en cómo se cruzan la tecnología y la psicología.
+Soy profe de Inglés hace varios años, hasta que un día me encontré escribiendo código en lugar de ensayos. Estudio Desarrollo Full Stack en la UTN Buenos Aires y me dedico a crear cosas que (creo) funcionan. Aprendo rápido, me obsesiono fácil y al final de todo encuentro la forma de resolver las cosas. Fuera del código, pienso demasiado en cómo se cruzan la tecnología y la psicología.
 
 
 🌎 Desde Argentina (UTC-3) | Inglés fluido.
