@@ -1,4 +1,4 @@
-### Hi there I'm Lucy and I'm a future Dev. 👩‍💻
+
 
 <div align="center">
   <img src="https://i.postimg.cc/ZnXhX4f2/Orange-Gradient-Modern-Geometric-Programmer-Profile-Linked-In-Banner.png" alt="banner" style="max-width:100%; height:auto;">
@@ -8,26 +8,14 @@
 ______________________________________________________________________________________________________________________________________________________________________________
 I'm a former English teacher who somehow ended up writing code instead of essays. I’m studying Full Stack at UTN Buenos Aires and building stuff that ideally works. I pick things up quickly, get (really) obsessed, and tend to figure things out one way or another. Outside of code, I overthink things like how technology and psychology intersect. 
 
-🌎 Based in Argentina (UTC-3) | Fluent in English.  
-
-💻 Open to remote opportunities as a Junior Web Developer.
-
-
-
-
-
+Based in Argentina (UTC-3) | Fluent in English.  
 
 
 
 Soy profe de Inglés hace varios años, hasta que un día me encontré escribiendo código en lugar de ensayos. Estudio Desarrollo Full Stack en la UTN Buenos Aires y me dedico a crear cosas que (creo) funcionan. Aprendo rápido, me obsesiono fácil y al final de todo encuentro la forma de resolver las cosas. Fuera del código, pienso demasiado en cómo se cruzan la tecnología y la psicología.
 
 
-🌎 Desde Argentina (UTC-3) | Inglés fluido.
-
-💻 Abierta a oportunidades remotas como Desarrolladora Web Junior.
-
-
-
+Desde Argentina (UTC-3) | Inglés fluido.
 
 ______________________________________________________________________________________________________________________________________________________________________________
 I’m currently learning:
